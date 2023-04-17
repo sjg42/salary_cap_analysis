@@ -1,0 +1,972 @@
+,Player,Team,Position,Salary,Years,Total Value,Average Annual
+0,"Scherzer, Max",N.Y. Mets,RHP,"$43,333,333",3 (2022-24),"$130,000,000","$43,333,333"
+1,"Trout, Mike",L.A. Angels,OF,"$37,116,667",12 (2019-30),"$426,500,000","$35,541,667"
+2,"Rendon, Anthony",L.A. Angels,3B,"$36,571,429",7 (2020-26),"$245,000,000","$35,000,000"
+3,"Cole, Gerrit",N.Y. Yankees,RHP,"$36,000,000",9 (2020-28),"$324,000,000","$36,000,000"
+4,"Correa, Carlos",Minnesota,SS,"$35,100,000",3 (2022-24),"$105,300,000","$35,100,000"
+5,"Machado, Manny",San Diego,3B,"$34,000,000",10 (2019-28),"$300,000,000","$30,000,000"
+6,"Seager, Corey",Texas,SS,"$33,000,000",10 (2022-31),"$325,000,000","$32,500,000"
+7,"Arenado, Nolan",St. Louis,3B,"$32,974,847",8 (2019-26),"$260,000,000","$32,500,000"
+8,"Lindor, Francisco",N.Y. Mets,SS,"$32,477,277",10 (2022-31),"$341,000,000","$34,100,000"
+9,"Strasburg, Stephen",Washington,RHP,"$32,205,854",7 (2020-26),"$245,000,000","$35,000,000"
+10,"Price, David",L.A. Dodgers,LHP,"$32,000,000",7 (2016-22),"$217,000,000","$31,000,000"
+11,"Bauer, Trevor",L.A. Dodgers,RHP,"$32,000,000",3 (2021-23),"$102,000,000","$34,000,000"
+12,"Cabrera, Miguel",Detroit,DH,"$32,000,000",8 (2016-23),"$248,000,000","$31,000,000"
+13,"Springer, George",Toronto,OF,"$29,666,667",6 (2021-26),"$150,000,000","$25,000,000"
+14,"Altuve, Jose",Houston,2B,"$29,000,000",7 (2018-19),"$163,500,000","$23,357,143"
+15,"Stanton, Giancarlo",N.Y. Yankees,DH,"$29,000,000",13 (2015-27),"$325,000,000","$25,000,000"
+16,"Harper, Bryce",Philadelphia,OF,"$27,538,462",13 (2019-31),"$330,000,000","$25,384,615"
+17,"deGrom, Jacob",N.Y. Mets,RHP,"$27,257,728",5 (2019-23),"$137,500,000","$27,500,000"
+18,"Wheeler, Zack",Philadelphia,RHP,"$26,000,000",5 (2020-24),"$118,000,000","$23,600,000"
+19,"Freeman, Freddie",L.A. Dodgers,1B,"$25,440,196",6 (2022-27),"$162,000,000","$27,000,000"
+0,"Goldschmidt, Paul",St. Louis,1B,"$25,333,333",5 (2020-24),"$130,000,000","$26,000,000"
+1,"Semien, Marcus",Texas,2B,"$25,000,000",7(2022-28),"$175,000,000","$25,000,000"
+2,"Verlander, Justin",Houston,RHP,"$25,000,000",,$0,$0
+3,"Stroman, Marcus",Chi. Cubs,RHP,"$25,000,000",3 (2022-24),"$71,000,000","$23,666,667"
+4,"Votto, Joey",Cincinnati,1B,"$25,000,000",10 (2014-23),"$225,000,000","$22,500,000"
+5,"Yelich, Christian",Milwaukee,OF,"$24,316,961",9 (2020-28),"$215,000,000","$23,888,889"
+6,"Sale, Chris",Boston,LHP,"$24,172,484",5 (2020-24),"$145,000,000","$29,000,000"
+7,"Cano, Robinson",N.Y. Mets,2B,"$24,000,000",10 (2014-23),"$240,000,000","$24,000,000"
+8,"Realmuto, JT",Philadelphia,C,"$23,875,000",5 (2021-25),"$115,500,000","$23,100,000"
+9,"Corbin, Patrick",Washington,LHP,"$23,416,667",6 (2019-24),"$140,000,000","$23,333,333"
+10,"Donaldson, Josh",N.Y. Yankees,3B,"$23,000,000",4 (2020-23),"$92,000,000","$23,000,000"
+11,"Myers, Wil",San Diego,OF,"$22,500,000",6 (2017-22),"$83,000,000","$13,833,333"
+12,"Heyward, Jason",Chi. Cubs,OF,"$22,000,000",8 (2016-23),"$184,000,000","$23,000,000"
+13,"Ramirez, Jose",Cleveland,3B,"$22,000,000",7 (2022-28),"$141,000,000","$20,142,857"
+14,"Bumgarner, Madison",Arizona,LHP,"$21,882,892",5 (2020-24),"$85,000,000","$17,000,000"
+15,"Rodon, Carlos",San Francisco,LHP,"$21,500,000",2 (2022-23),"$44,000,000","$22,000,000"
+16,"Hosmer, Eric",San Diego,1B,"$21,000,000",8 (2018-25),"$144,000,000","$18,000,000"
+17,"Ray, Robbie",Seattle,LHP,"$21,000,000",5 (2022-26),"$115,000,000","$23,000,000"
+18,"Gausman, Kevin",Toronto,RHP,"$21,000,000",5 (2022-26),"$110,000,000","$22,000,000"
+19,"Blackmon, Charlie",Colorado,OF,"$21,000,000",6 (2018-23),"$108,000,000","$18,000,000"
+0,"Turner, Trea",L.A. Dodgers,SS,"$21,000,000",,$0,$0
+1,"Syndergaard, Noah",L.A. Angels,RHP,"$21,000,000",,$0,$0
+2,"Baez, Javier",Detroit,SS,"$20,000,000",6 (2022-27),"$140,000,000","$23,333,333"
+3,"Morton, Charlie",Atlanta,RHP,"$20,000,000",,$0,$0
+4,"Bogaerts, Xander",Boston,SS,"$20,000,000",6 (2020-25),"$120,000,000","$20,000,000"
+5,"Story, Trevor",Boston,2B,"$20,000,000",6 (2022-27),"$140,000,000","$23,333,333"
+6,"Ryu, Hyun-Jin",Toronto,LHP,"$20,000,000",4 (2020-23),"$80,000,000","$20,000,000"
+7,"Darvish, Yu",San Diego,RHP,"$20,000,000",6 (2018-23),"$126,000,000","$21,000,000"
+8,"Castellanos, Nick",Philadelphia,OF,"$20,000,000",5 (2022-26),"$100,000,000","$20,000,000"
+9,"Turner, Justin",L.A. Dodgers,3B,"$19,579,357",2 (2021-22),"$34,000,000","$17,000,000"
+10,"Martinez, JD",Boston,DH,"$19,375,000",5 (2018-22),"$110,000,000","$22,000,000"
+11,"Abreu, Jose",Chic. White Sox,1B,"$19,131,153",3 (2020-23),"$50,000,000","$16,666,667"
+12,"Schwarber, Kyle",Philadelphia,OF,"$19,000,000",4 (2022-25),"$79,000,000","$19,750,000"
+13,"Betts, Mookie",L.A. Dodgers,OF,"$18,658,692",12 (2021-32),"$365,000,000","$30,416,667"
+14,"Lynn, Lance",Chic. White Sox,RHP,"$18,500,000",2 (2022-23),"$38,000,000","$19,000,000"
+15,"Belt, Brandon",San Francisco,1B,"$18,400,000",,$0,$0
+16,"Grandal, Yasmani",Chic. White Sox,C,"$18,250,000",4 (2020-23),"$73,000,000","$18,250,000"
+17,"Keuchel, Dallas",Chic. White Sox,LHP,"$18,000,000",3 (2020-22),"$55,500,000","$18,500,000"
+18,"Bryant, Kris",Colorado,OF,"$18,000,000",7 (2022-28),"$182,000,000","$26,000,000"
+19,"Perez, Salvador",Kansas City,C,"$18,000,000",4 (2022-25),"$82,000,000","$20,500,000"
+0,"Cain, Lorenzo",Milwaukee,OF,"$17,801,121",5 (2018-22),"$80,000,000","$16,000,000"
+1,"Longoria, Evan",San Francisco,3B,"$17,500,000",6 (2017-22),"$100,000,000","$16,666,667"
+2,"Wainwright, Adam",St. Louis,RHP,"$17,500,000",,$0,$0
+3,"Soto, Juan",Washington,OF,"$17,100,000",,$0,$0
+4,"Mikolas, Miles",St. Louis,RHP,"$17,000,000",4 (2020-23),"$68,000,000","$17,000,000"
+5,"Judge, Aaron",N.Y. Yankees,OF,"$17,000,000",,$0,$0
+6,"Bellinger, Cody",L.A. Dodgers,OF,"$17,000,000",,$0,$0
+7,"Kershaw, Clayton",L.A. Dodgers,LHP,"$17,000,000",,$0,$0
+8,"Eovaldi, Nathan",Boston,RHP,"$17,000,000",4 (2019-22),"$68,000,000","$17,000,000"
+9,"Ozuna, Marcell",Atlanta,OF,"$16,000,000",4 (2021-24),"$65,000,000","$16,250,000"
+10,"Jansen, Kenley",Atlanta,RHP,"$16,000,000",,$0,$0
+11,"Moustakas, Mike",Cincinnati,3B,"$16,000,000",4 (2020-23),"$64,000,000","$16,000,000"
+12,"Kimbrel, Craig",L.A. Dodgers,RHP,"$16,000,000",,$0,$0
+13,"Brantley, Michael",Houston,OF,"$16,000,000",2 (2021-22),"$32,000,000","$16,000,000"
+14,"Chapman, Aroldis",N.Y. Yankees,LHP,"$16,000,000",3 (2020-22),"$48,000,000","$16,000,000"
+15,"Rizzo, Anthony",N.Y. Yankees,1B,"$16,000,000",2 (2022-23),"$32,000,000","$16,000,000"
+16,"Crawford, Brandon",San Francisco,SS,"$16,000,000",2 (2022-23),"$32,000,000","$16,000,000"
+17,"Kikuchi, Yusei",Toronto,LHP,"$16,000,000",3 (2022-24),"$36,000,000","$12,000,000"
+18,"McCullers Jr., Lance",Houston,RHP,"$15,950,000",5 (2022-26),"$85,000,000","$17,000,000"
+19,"Marte, Starling",N.Y. Mets,OF,"$15,750,000",4 (2022-25),"$78,000,000","$19,500,000"
+0,"Nola, Aaron",Philadelphia,RHP,"$15,500,000",4 (2019-22),"$45,000,000","$11,250,000"
+1,"Gregorius, Didi",Philadelphia,SS,"$15,013,985",2 (2021-22),"$28,000,000","$14,000,000"
+2,"Gray, Jon",Texas,RHP,"$15,000,000",4 (2022-25),"$56,000,000","$14,000,000"
+3,"LeMahieu, DJ",N.Y. Yankees,2B,"$15,000,000",6 (2021-26),"$90,000,000","$15,000,000"
+4,"Taylor, Chris",L.A. Dodgers,OF,"$15,000,000",4 (2022-25),"$60,000,000","$15,000,000"
+5,"Acuna Jr., Ronald",Atlanta,OF,"$15,000,000",8 (2019-26),"$100,000,000","$12,500,000"
+6,"Olson, Matt",Atlanta,1B,"$15,000,000",8 (2022-29),"$168,000,000","$21,000,000"
+7,"Hendricks, Kyle",Chi. Cubs,RHP,"$14,500,000",4 (2020-23),"$55,500,000","$13,875,000"
+8,"Segura, Jean",Philadelphia,SS,"$14,250,000",5 (2018-22),"$70,000,000","$14,000,000"
+9,"Rodriguez, Eduardo",Detroit,LHP,"$14,000,000",5 (2022-26),"$77,000,000","$15,400,000"
+10,"Britton, Zack",N.Y. Yankees,LHP,"$14,000,000",,$0,$0
+11,"Andrus, Elvis",Oakland,SS,"$14,000,000",8 (2015-22),"$120,000,000","$15,000,000"
+12,"Moncada, Yoan",Chic. White Sox,3B,"$13,800,000",5 (2020-24),"$70,000,000","$14,000,000"
+13,"Hendriks, Liam",Chic. White Sox,RHP,"$13,333,333",3 (2021-23),"$54,000,000","$18,000,000"
+14,"Smith, Will",Atlanta,LHP,"$13,000,000",3 (2020-22),"$40,000,000","$13,333,333"
+15,"Canha, Mark",N.Y. Mets,OF,"$13,000,000",2 (2022-23),"$26,500,000","$13,250,000"
+16,"Bregman, Alex",Houston,3B,"$13,000,000",5 (2020-24),"$100,000,000","$20,000,000"
+17,"Greinke, Zack",Kansas City,RHP,"$13,000,000",,$0,$0
+18,"Muncy, Max",L.A. Dodgers,1B,"$13,000,000",3 (2020-22),"$26,000,000","$8,666,667"
+19,"Wood, Alex",San Francisco,LHP,"$12,500,000",2 (2022-23),"$25,000,000","$12,500,000"
+0,"Snell, Blake",San Diego,LHP,"$12,500,000",5 (2019-23),"$50,000,000","$10,000,000"
+1,"Chapman, Matt",Toronto,3B,"$12,500,000",2 (2022-23),"$25,000,000","$12,500,000"
+2,"Kiermaier, Kevin",Tampa Bay,OF,"$12,166,667",6 (2017-22),"$53,500,000","$8,916,667"
+3,"Cruz, Nelson",Washington,DH,"$12,000,000",,$0,$0
+4,"DeSclafani, Anthony",San Francisco,RHP,"$12,000,000",3 (2022-24),"$36,000,000","$12,000,000"
+5,"Carrasco, Carlos",N.Y. Mets,RHP,"$12,000,000",4 (2019-22),"$47,000,000","$11,750,000"
+6,"Garcia, Avisail",Miami,OF,"$12,000,000",4 (2022-25),"$53,000,000","$13,250,000"
+7,"Soler, Jorge",Miami,DH,"$12,000,000",3 (2022-24),"$36,000,000","$12,000,000"
+8,"Severino, Luis",N.Y. Yankees,RHP,"$11,500,000",4 (2019-22),"$40,000,000","$10,000,000"
+9,"Marquez, German",Colorado,RHP,"$11,300,000",5 (2019-23),"$43,000,000","$8,600,000"
+10,"Devers, Rafael",Boston,3B,"$11,200,000",,$0,$0
+11,"Hader, Josh",Milwaukee,LHP,"$11,000,000",,$0,$0
+12,"Suarez, Eugenio",Seattle,3B,"$11,000,000",7 (2018-24),"$66,000,000","$9,428,571"
+13,"Berrios, Jose",Toronto,RHP,"$11,000,000",7 (2022-28),"$131,000,000","$18,714,286"
+14,"Hicks, Aaron",N.Y. Yankees,OF,"$10,785,714",7 (2019-25),"$70,000,000","$10,000,000"
+15,"Gray, Sonny",Minnesota,RHP,"$10,700,000",3 (2020-22),"$30,500,000","$10,166,667"
+16,"Hernandez, Teoscar",Toronto,OF,"$10,650,000",,$0,$0
+17,"Sano, Miguel",Minnesota,1B,"$10,583,333",3 (2020-22),"$30,000,000","$10,000,000"
+18,"Santana, Carlos",Kansas City,DH,"$10,500,000",2 (2021-22),"$17,500,000","$8,750,000"
+19,"Gallo, Joey",N.Y. Yankees,OF,"$10,275,000",,$0,$0
+0,"Diaz, Edwin",N.Y. Mets,RHP,"$10,200,000",,$0,$0
+1,"Escobar, Eduardo",N.Y. Mets,3B,"$10,000,000",2 (2022-23),"$20,000,000","$10,000,000"
+2,"Pressly, Ryan",Houston,RHP,"$10,000,000",,$0,$0
+3,"Iglesias, Raisel",L.A. Angels,RHP,"$10,000,000",4 (2022-25),"$58,000,000","$14,500,000"
+4,"Miley, Wade",Chi. Cubs,LHP,"$10,000,000",,$0,$0
+5,"Pollock IV, A.J.",Chic. White Sox,OF,"$10,000,000",4 (2019-22),"$55,000,000","$13,750,000"
+6,"Minor, Mike",Cincinnati,LHP,"$10,000,000",2 (2021-22),"$18,000,000","$9,000,000"
+7,"Bell, Josh",Washington,1B,"$10,000,000",,$0,$0
+8,"Molina, Yadier",St. Louis,C,"$10,000,000",,$0,$0
+9,"Pomeranz, Drew",San Diego,LHP,"$10,000,000",4 (2020-23),"$34,000,000","$8,500,000"
+10,"Knebel, Corey",Philadelphia,RHP,"$10,000,000",,$0,$0
+11,"Manaea, Sean",San Diego,LHP,"$9,750,000",,$0,$0
+12,"Anderson, Tim",Chic. White Sox,SS,"$9,500,000",6 (2017-22),"$25,000,000","$4,166,667"
+13,"Grichuk, Randal",Colorado,OF,"$9,333,333",5 (2019-23),"$52,000,000","$10,400,000"
+14,"Duvall, Adam",Atlanta,OF,"$9,275,000",,$0,$0
+15,"Swanson, Dansby",Atlanta,SS,"$9,200,000",,$0,$0
+16,"Buxton, Byron",Minnesota,OF,"$9,142,857",7 (2022-28),"$100,000,000","$14,285,714"
+17,"Bradley Jr., Jackie",Boston,OF,"$9,139,485",2 (2021-22),"$24,000,000","$12,000,000"
+18,"Contreras, Willson",Chi. Cubs,C,"$9,000,000",,$0,$0
+19,"Rosario, Eddie",Atlanta,OF,"$9,000,000",2 (2022-23),"$18,000,000","$9,000,000"
+0,"Cobb, Alex",San Francisco,RHP,"$9,000,000",2 (2022-23),"$20,000,000","$10,000,000"
+1,"Musgrove, Joe",San Diego,RHP,"$8,625,000",,$0,$0
+2,"Matz, Steven",St. Louis,LHP,"$8,500,000",4 (2022-25),"$44,000,000","$11,000,000"
+3,"Sanchez, Gary",Minnesota,C,"$8,500,000",,$0,$0
+4,"Wong, Kolten",Milwaukee,2B,"$8,500,000",2 (2021-22),"$18,000,000","$9,000,000"
+5,"McCutchen, Andrew",Milwaukee,OF,"$8,500,000",,$0,$0
+6,"Heaney, Andrew",L.A. Dodgers,LHP,"$8,500,000",,$0,$0
+7,"Marte, Ketel",Arizona,2B,"$8,400,000",5 (2018-22),"$24,000,000","$4,800,000"
+8,"Bassitt, Chris",N.Y. Mets,RHP,"$8,300,000",,$0,$0
+9,"McCann, James",N.Y. Mets,C,"$8,150,000",4 (2021-24),"$40,600,000","$10,150,000"
+10,"Barnes, Matt",Boston,RHP,"$8,125,000",2 (2021-22),"$18,750,000","$9,375,000"
+11,"Suzuki, Seiya",Chi. Cubs,INF,"$8,000,000",5 (2022-26),"$85,000,000","$17,000,000"
+12,"D'Arnaud, Travis",Atlanta,C,"$8,000,000",2 (2022-23),"$16,000,000","$8,000,000"
+13,"Graveman, Kendall",Chic. White Sox,RHP,"$8,000,000",3 (2022-24),"$24,000,000","$8,000,000"
+14,"Walker, Taijuan",N.Y. Mets,RHP,"$8,000,000",2 (2021-22),"$20,000,000","$10,000,000"
+15,"Treinen, Blake",L.A. Dodgers,RHP,"$8,000,000",2 (2021-22),"$17,500,000","$8,750,000"
+16,"Anderson, Tyler",L.A. Dodgers,LHP,"$8,000,000",,$0,$0
+17,"Urias, Julio",L.A. Dodgers,LHP,"$8,000,000",,$0,$0
+18,"Neris, Hector",Houston,RHP,"$8,000,000",2 (2022-23),"$17,000,000","$8,500,000"
+19,"Gurriel, Yulieski",Houston,1B,"$8,000,000",,$0,$0
+0,"Odorizzi, Jake",Houston,RHP,"$8,000,000",,$0,$0
+1,"Harris, Will",Washington,RHP,"$8,000,000",3 (2020-22),"$24,000,000","$8,000,000"
+2,"Kluber, Corey",Tampa Bay,RHP,"$8,000,000",,$0,$0
+3,"Clevinger, Mike",San Diego,RHP,"$8,000,000",2 (2021-22),"$11,500,000","$5,750,000"
+4,"Guerrero, Vladimir",Toronto,1B,"$7,900,000",,$0,$0
+5,"Ahmed, Nick",Arizona,SS,"$7,875,000",4 (2020-23),"$32,500,000","$8,125,000"
+6,"May, Trevor",N.Y. Mets,RHP,"$7,750,000",2 (2021-22),"$15,500,000","$7,750,000"
+7,"Haniger, Mitch",Seattle,OF,"$7,750,000",,$0,$0
+8,"Hoskins, Rhys",Philadelphia,1B,"$7,700,000",,$0,$0
+9,"Renfroe, Hunter",Milwaukee,OF,"$7,650,000",,$0,$0
+10,"Hernandez, Kike",Boston,OF,"$7,624,090",2 (2021-22),"$14,000,000","$7,000,000"
+11,"Mancini, Trey",Baltimore,OF,"$7,500,000",,$0,$0
+12,"Peralta, David",Arizona,OF,"$7,500,000",5 (2018-22),"$22,000,000","$4,400,000"
+13,"Barnhart, Tucker",Detroit,C,"$7,500,000",,$0,$0
+14,"Schoop, Jonathan",Detroit,2B,"$7,500,000",,$0,$0
+15,"Loup, Aaron",L.A. Angels,LHP,"$7,500,000",2 (2022-23),"$17,000,000","$8,500,000"
+16,"Giolito, Lucas",Chic. White Sox,RHP,"$7,450,000",,$0,$0
+17,"Alonso, Pete",N.Y. Mets,1B,"$7,400,000",,$0,$0
+18,"Castillo, Luis",Cincinnati,RHP,"$7,350,000",,$0,$0
+19,"Jimenez, Eloy",Chic. White Sox,OF,"$7,333,333",6 (2019-24),"$43,000,000","$7,166,667"
+0,"Aguilar, Jesus",Miami,1B,"$7,300,000",,$0,$0
+1,"Benintendi, Andrew",Kansas City,OF,"$7,300,000",,$0,$0
+2,"Rogers, Taylor",San Diego,LHP,"$7,300,000",,$0,$0
+3,"Buehler, Walker",L.A. Dodgers,RHP,"$7,250,000",2 (2021-22),"$8,000,000","$4,000,000"
+4,"Piscotty, Stephen",Oakland,OF,"$7,250,000",6 (2017-22),"$33,500,000","$5,583,333"
+5,"Senzatela, Antonio",Colorado,RHP,"$7,250,000",5 (2022-26),"$50,500,000","$10,100,000"
+6,"Oberg, Scott",Colorado,RHP,"$7,000,000",3 (2020-22),"$13,000,000","$4,333,333"
+7,"Cron, C.J.",Colorado,1B,"$7,000,000",2 (2022-23),"$14,500,000","$7,250,000"
+8,"Kelly, Joe",Chic. White Sox,RHP,"$7,000,000",2 (2022-23),"$17,000,000","$8,500,000"
+9,"Vazquez, Christian",Boston,C,"$7,000,000",,$0,$0
+10,"Wacha, Michael",Boston,RHP,"$7,000,000",,$0,$0
+11,"Nimmo, Brandon",N.Y. Mets,OF,"$7,000,000",,$0,$0
+12,"Tepera, Ryan",L.A. Angels,RHP,"$7,000,000",2 (2022-23),"$14,000,000","$7,000,000"
+13,"Gibson, Kyle",Philadelphia,RHP,"$7,000,000",3 (2020-22),"$28,000,000","$9,333,333"
+14,"Zunino, Mike",Tampa Bay,C,"$7,000,000",,$0,$0
+15,"Happ, Ian",Chi. Cubs,OF,"$6,850,000",,$0,$0
+16,"Woodruff, Brandon",Milwaukee,RHP,"$6,800,000",,$0,$0
+17,"Kepler, Max",Minnesota,OF,"$6,750,000",5 (2019-23),"$35,000,000","$7,000,000"
+18,"Lorenzen, Michael",L.A. Angels,RHP,"$6,750,000",,$0,$0
+19,"Frazier, Adam",Seattle,2B,"$6,700,000",,$0,$0
+0,"Fried, Max",Atlanta,LHP,"$6,600,000",,$0,$0
+1,"Urshela, Giovanny",Minnesota,3B,"$6,550,000",,$0,$0
+2,"Burnes, Corbin",Milwaukee,RHP,"$6,500,000",,$0,$0
+3,"Chafin, Andrew",Detroit,LHP,"$6,500,000",2 (2022-23),"$13,000,000","$6,500,000"
+4,"Profar, Jurickson",San Diego,OF,"$6,500,000",3 (2021-23),"$21,000,000","$7,000,000"
+5,"Freeland, Kyle",Colorado,LHP,"$6,425,000",,$0,$0
+6,"Torres, Gleyber",N.Y. Yankees,SS,"$6,250,000",,$0,$0
+7,"DeJong, Paul",St. Louis,SS,"$6,166,667",6 (2018-23),"$26,000,000","$4,333,333"
+8,"Miller, Brad",Texas,1B,"$6,000,000",2 (2022-23),"$10,000,000","$5,000,000"
+9,"Kim, Ha-Seong",San Diego,SS,"$6,000,000",4 (2021-24),"$28,000,000","$7,000,000"
+10,"Martinez, Nick",San Diego,RHP,"$6,000,000",4 (2022-25),"$20,000,000","$5,000,000"
+11,"Suarez, Robert",San Diego,RHP,"$6,000,000",,$0,$0
+12,"Pederson, Joc",San Francisco,OF,"$6,000,000",,$0,$0
+13,"Familia, Jeurys",Philadelphia,RHP,"$6,000,000",,$0,$0
+14,"Hand, Brad",Philadelphia,LHP,"$6,000,000",,$0,$0
+15,"Montgomery, Jordan",N.Y. Yankees,LHP,"$6,000,000",,$0,$0
+16,"Hudson, Daniel",L.A. Dodgers,RHP,"$6,000,000",,$0,$0
+17,"Bieber, Shane",Cleveland,RHP,"$6,000,000",,$0,$0
+18,"Robert, Luis",Chic. White Sox,OF,"$6,000,000",6 (2020-25),"$50,000,000","$8,333,333"
+19,"Pham, Tommy",Cincinnati,OF,"$6,000,000",,$0,$0
+0,"Melancon, Mark",Arizona,RHP,"$6,000,000",2 (2022-23),"$14,000,000","$7,000,000"
+1,"Gomes, Yan",Chi. Cubs,C,"$6,000,000",2 (2022-23),"$13,000,000","$6,500,000"
+2,"Paxton, James",Boston,LHP,"$6,000,000",,$0,$0
+3,"Lyles, Jordan",Baltimore,RHP,"$6,000,000",,$0,$0
+4,"Candelario, Jeimer",Detroit,3B,"$5,800,000",,$0,$0
+5,"Taillon, Jameson",N.Y. Yankees,RHP,"$5,800,000",,$0,$0
+6,"Baez, Pedro",Houston,RHP,"$5,750,000",,$0,$0
+7,"Tatis Jr., Fernando",San Diego,SS,"$5,714,286",14 (2021-34),"$340,000,000","$24,285,714"
+8,"Gonzales, Marco",Seattle,LHP,"$5,700,000",4 (2021-24),"$30,000,000","$7,500,000"
+9,"Margot, Manuel",Tampa Bay,OF,"$5,600,000",,$0,$0
+10,"Ohtani, Shohei",L.A. Angels,RHP/OF,"$5,500,000",2 (2021-22),"$8,500,000","$4,250,000"
+11,"Garcia, Leury",Chic. White Sox,OF,"$5,500,000",3 (2022-24),"$16,500,000","$5,500,000"
+12,"Voit, Luke",San Diego,DH,"$5,450,000",,$0,$0
+13,"Winker, Jesse",Seattle,OF,"$5,400,000",,$0,$0
+14,"Giles, Ken",Seattle,RHP,"$5,250,000",2 (2021-22),"$7,000,000","$3,500,000"
+15,"Leclerc, Jose",Texas,RHP,"$5,250,000",4 (2019-22),"$14,750,000","$3,687,500"
+16,"La Stella, Tommy",San Francisco,2B,"$5,250,000",3 (2021-23),"$18,750,000","$6,250,000"
+17,"Kelly, Merrill",Arizona,RHP,"$5,250,000",,$0,$0
+18,"Mahle, Tyler",Cincinnati,RHP,"$5,200,000",,$0,$0
+19,"Boyd, Matt",San Francisco,LHP,"$5,200,000",,$0,$0
+0,"Calhoun, Kole",Texas,OF,"$5,200,000",,$0,$0
+1,"Bader, Harrison",St. Louis,OF,"$5,200,000",2 (2022-23),"$10,400,000","$5,200,000"
+2,"Eflin, Zach",Philadelphia,RHP,"$5,150,000",,$0,$0
+3,"Glasnow, Tyler",Tampa Bay,RHP,"$5,100,000",,$0,$0
+4,"Montas, Franky",Oakland,RHP,"$5,025,000",,$0,$0
+5,"Polanco, Jorge",Minnesota,2B,"$5,000,000",5 (2019-23),"$25,750,000","$5,150,000"
+6,"Narvaez, Omar",Milwaukee,C,"$5,000,000",,$0,$0
+7,"Rojas, Miguel",Miami,SS,"$5,000,000",2 (2022-23),"$10,000,000","$5,000,000"
+8,"Maldonado, Martin",Houston,C,"$5,000,000",,$0,$0
+9,"Grossman, Robbie",Detroit,OF,"$5,000,000",2 (2021-22),"$10,000,000","$5,000,000"
+10,"McMahon, Ryan",Colorado,3B,"$5,000,000",5 (2019-23),"$43,000,000","$8,600,000"
+11,"Iglesias, Jose",Colorado,SS,"$5,000,000",,$0,$0
+12,"Albies, Ozzie",Atlanta,2B,"$5,000,000",7 (2019-25),"$35,000,000","$5,000,000"
+13,"Hill, Richard",Boston,LHP,"$5,000,000",,$0,$0
+14,"Dickerson, Corey",St. Louis,OF,"$5,000,000",,$0,$0
+15,"Flaherty, Jack",St. Louis,RHP,"$5,000,000",,$0,$0
+16,"Perez, Roberto",Pittsburgh,C,"$5,000,000",,$0,$0
+17,"Rosario, Amed",Cleveland,SS,"$4,950,000",,$0,$0
+18,"Fulmer, Michael",Detroit,RHP,"$4,950,000",,$0,$0
+19,"Gurriel, Lourdes",Toronto,OF,"$4,928,571",7 (2017-23),"$22,000,000","$3,142,857"
+0,"Crawford, J.P.",Seattle,SS,"$4,850,000",,$0,$0
+1,"Keller, Brad",Kansas City,RHP,"$4,825,000",,$0,$0
+2,"Lamet, Dinelson",San Diego,RHP,"$4,775,000",,$0,$0
+3,"Dozier, Hunter",Kansas City,3B,"$4,750,000",4 (2021-24),"$25,000,000","$6,250,000"
+4,"Castro, Jason",Houston,C,"$4,750,000",2 (2021-22),"$7,000,000","$3,500,000"
+5,"Kiner-Falefa, Isiah",N.Y. Yankees,SS,"$4,700,000",,$0,$0
+6,"Adames, Willy",Milwaukee,SS,"$4,600,000",,$0,$0
+7,"Reyes, Franmil",Cleveland,DH,"$4,550,000",,$0,$0
+8,"Solano, Donovan",Cincinnati,2B,"$4,500,000",,$0,$0
+9,"Villar, Jonathan",Chi. Cubs,3B,"$4,500,000",,$0,$0
+10,"Kennedy, Ian",Arizona,RHP,"$4,500,000",,$0,$0
+11,"Taylor, Michael",Kansas City,OF,"$4,500,000",2 (2022-23),"$9,000,000","$4,500,000"
+12,"Richards, Garrett",Texas,RHP,"$4,500,000",,$0,$0
+13,"Garcia, Yimi",Toronto,RHP,"$4,500,000",2 (2022-23),"$11,000,000","$5,500,000"
+14,"Anderson, Brian",Miami,3B,"$4,475,000",,$0,$0
+15,"Diaz, Aledmys",Houston,1B,"$4,450,000",,$0,$0
+16,"Bard, Daniel",Colorado,RHP,"$4,400,000",,$0,$0
+17,"Wendle, Joey",Miami,2B,"$4,350,000",,$0,$0
+18,"Smyly, Drew",Chi. Cubs,LHP,"$4,250,000",,$0,$0
+19,"Raley, Brooks",Tampa Bay,LHP,"$4,250,000",2 (2022-23),"$10,000,000","$5,000,000"
+0,"Reynolds, Bryan",Pittsburgh,OF,"$4,250,000",,$0,$0
+1,"Colome, Alexander",Colorado,RHP,"$4,150,000",,$0,$0
+2,"Naquin, Tyler",Cincinnati,OF,"$4,025,000",,$0,$0
+3,"Harrison, Josh",Chic. White Sox,2B,"$4,000,000",,$0,$0
+4,"Hedges, Austin",Cleveland,C,"$4,000,000",,$0,$0
+5,"Simmons, Andrelton",Chi. Cubs,SS,"$4,000,000",,$0,$0
+6,"McHugh, Collin",Atlanta,RHP,"$4,000,000",2 (2022-23),"$10,000,000","$5,000,000"
+7,"Ottavino, Adam",N.Y. Mets,RHP,"$4,000,000",,$0,$0
+8,"Green, Chad",N.Y. Yankees,RHP,"$4,000,000",,$0,$0
+9,"Bundy, Dylan",Minnesota,RHP,"$4,000,000",,$0,$0
+10,"Meadows, Austin",Detroit,OF,"$4,000,000",,$0,$0
+11,"Fletcher, David",L.A. Angels,SS,"$4,000,000",5 (2021-25),"$26,000,000","$5,200,000"
+12,"Tsutsugo, Yoshitomo",Pittsburgh,1B,"$4,000,000",,$0,$0
+13,"Stammen, Craig",San Diego,RHP,"$4,000,000",2 (2021-22),"$9,000,000","$4,500,000"
+14,"Lowe, Brandon",Tampa Bay,2B,"$4,000,000",6 (2019-24),"$24,000,000","$4,000,000"
+15,"Perez, Martin",Texas,LHP,"$4,000,000",,$0,$0
+16,"Hernandez, Cesar",Washington,2B,"$4,000,000",,$0,$0
+17,"Tapia, Raimel",Toronto,OF,"$3,950,000",,$0,$0
+18,"Smith, Dominic",N.Y. Mets,OF,"$3,950,000",,$0,$0
+19,"Riley, Austin",Atlanta,3B,"$3,950,000",,$0,$0
+0,"Williams, Trevor",N.Y. Mets,RHP,"$3,900,000",,$0,$0
+1,"Yarbrough, Ryan",Tampa Bay,LHP,"$3,850,000",,$0,$0
+2,"Alcantara, Sandy",Miami,RHP,"$3,800,000",5 (2022-26),"$56,000,000","$11,200,000"
+3,"Duffey, Tyler",Minnesota,RHP,"$3,800,000",,$0,$0
+4,"Stripling, Ross",Toronto,OF,"$3,790,000",,$0,$0
+5,"Bradley, Archie",L.A. Angels,RHP,"$3,750,000",,$0,$0
+6,"Kahnle, Tommy",L.A. Dodgers,RHP,"$3,725,000",2 (2021-22),"$4,750,000","$2,375,000"
+7,"Yastrzemski, Mike",San Francisco,OF,"$3,700,000",,$0,$0
+8,"Jackson, Luke",Atlanta,RHP,"$3,600,000",,$0,$0
+9,"Verdugo, Alex",Boston,OF,"$3,550,000",,$0,$0
+10,"Diekman, Jake",Boston,LHP,"$3,500,000",2 (2022-23),"$8,000,000","$4,000,000"
+11,"Givens, Mychal",Chi. Cubs,RHP,"$3,500,000",,$0,$0
+12,"Robertson, David",Chi. Cubs,RHP,"$3,500,000",,$0,$0
+13,"Pina, Manny",Atlanta,C,"$3,500,000",2 (2022-23),"$8,000,000","$4,000,000"
+14,"Flores, Wilmer",San Francisco,INF,"$3,500,000",,$0,$0
+15,"O'Neill, Tyler",St. Louis,OF,"$3,400,000",,$0,$0
+16,"Garver, Mitch",Texas,C,"$3,335,000",,$0,$0
+17,"Kelly, Carson",Arizona,C,"$3,325,000",,$0,$0
+18,"Merrifield, Whit",Kansas City,OF,"$3,250,000",4 (2019-22),"$16,250,000","$4,062,500"
+19,"Garcia, Luis",San Diego,RHP,"$3,250,000",2 (2022-23),"$7,000,000","$3,500,000"
+0,"Choi, Ji-Man",Tampa Bay,1B,"$3,200,000",,$0,$0
+1,"Farmer, Kyle",Cincinnati,2B,"$3,155,000",,$0,$0
+2,"Santander, Anthony",Baltimore,OF,"$3,150,000",,$0,$0
+3,"Steckenrider, Drew",Seattle,RHP,"$3,100,000",,$0,$0
+4,"Flexen, Chris",Seattle,RHP,"$3,050,000",2 (2021-22),"$4,750,000","$2,375,000"
+5,"Estevez, Carlos",Colorado,RHP,"$3,025,000",,$0,$0
+6,"Diaz, Elias",Colorado,C,"$3,000,000",3 (2022-24),"$14,500,000","$4,833,333"
+7,"Kuhl, Chad",Colorado,RHP,"$3,000,000",,$0,$0
+8,"Velasquez, Vincent",Chic. White Sox,RHP,"$3,000,000",,$0,$0
+9,"Strahm, Matt",Boston,LHP,"$3,000,000",,$0,$0
+10,"Mondesi, Adalberto",Kansas City,SS,"$3,000,000",,$0,$0
+11,"Valdez, Framber",Houston,LHP,"$3,000,000",,$0,$0
+12,"Duffy, Danny",L.A. Dodgers,LHP,"$3,000,000",,$0,$0
+13,"Stassi, Max",L.A. Angels,C,"$3,000,000",3 (2022-24),"$17,500,000","$5,833,333"
+14,"Maeda, Kenta",Minnesota,RHP,"$3,000,000",8 (2016-23),"$25,000,000","$3,125,000"
+15,"Trivino, Lou",Oakland,RHP,"$3,000,000",,$0,$0
+16,"Bass, Anthony",Miami,RHP,"$3,000,000",2 (2021-22),"$5,000,000","$2,500,000"
+17,"Floro, Dylan",Miami,RHP,"$3,000,000",,$0,$0
+18,"McNeil, Jeff",N.Y. Mets,OF,"$3,000,000",,$0,$0
+19,"Johnson, Pierce",San Diego,RHP,"$3,000,000",,$0,$0
+0,"Ruf, Darin",San Francisco,OF,"$3,000,000",2 (2022-23),"$6,250,000","$3,125,000"
+1,"Lugo, Seth",N.Y. Mets,RHP,"$2,925,000",,$0,$0
+2,"Weaver, Luke",Arizona,RHP,"$2,875,000",,$0,$0
+3,"Reyes, Alex",St. Louis,RHP,"$2,850,000",,$0,$0
+4,"Diaz, Yandy",Tampa Bay,3B,"$2,800,000",,$0,$0
+5,"Soroka, Michael",Atlanta,RHP,"$2,800,000",,$0,$0
+6,"Davis, J.D.",N.Y. Mets,OF,"$2,760,000",,$0,$0
+7,"Archer, Chris",Minnesota,RHP,"$2,750,000",,$0,$0
+8,"Barnes, Austin",L.A. Dodgers,C,"$2,750,000",2 (2021-22),"$4,300,000","$2,150,000"
+9,"Montero, Rafael",Houston,RHP,"$2,725,000",,$0,$0
+10,"Pinder, Chad",Oakland,OF,"$2,725,000",,$0,$0
+11,"Alfaro, Jorge",San Diego,C,"$2,725,000",,$0,$0
+12,"Stratton, Chris",Pittsburgh,RHP,"$2,700,000",,$0,$0
+13,"Suter, Brent",Milwaukee,LHP,"$2,700,000",,$0,$0
+14,"Means, John",Baltimore,LHP,"$2,700,000",,$0,$0
+15,"Pivetta, Nick",Boston,RHP,"$2,650,000",,$0,$0
+16,"Lopez, Reynaldo",Chic. White Sox,RHP,"$2,625,000",,$0,$0
+17,"Castro, Miguel",N.Y. Yankees,RHP,"$2,620,000",,$0,$0
+18,"Walker, Christian",Arizona,1B,"$2,600,000",,$0,$0
+19,"Casali, Curt",San Francisco,C,"$2,600,000",,$0,$0
+0,"Urias, Luis",Milwaukee,SS,"$2,550,000",,$0,$0
+1,"Lopez, Nicky",Kansas City,2B,"$2,550,000",,$0,$0
+2,"Bote, David",Chi. Cubs,3B,"$2,510,000",5 (2020-24),"$15,000,000","$3,000,000"
+3,"Quantrill, Cal",Cleveland,RHP,"$2,510,000",,$0,$0
+4,"Shaw, Bryan",Cleveland,RHP,"$2,500,000",,$0,$0
+5,"Bummer, Aaron",Chic. White Sox,LHP,"$2,500,000",5 (2020-24),"$16,000,000","$3,200,000"
+6,"Martin, Christopher",Chi. Cubs,RHP,"$2,500,000",,$0,$0
+7,"Cooper, Garrett",Miami,1B,"$2,500,000",,$0,$0
+8,"Rodriguez, Joely",N.Y. Mets,LHP,"$2,500,000",,$0,$0
+9,"Smith, Joe",Minnesota,RHP,"$2,500,000",,$0,$0
+10,"McGee, Jake",San Francisco,LHP,"$2,500,000",2 (2021-22),"$5,000,000","$2,500,000"
+11,"Herrera, Odubel",Philadelphia,OF,"$2,500,000",,$0,$0
+12,"VerHagen, Drew",St. Louis,RHP,"$2,500,000",2 (2022-23),"$5,500,000","$2,750,000"
+13,"McFarland, TJ",St. Louis,LHP,"$2,500,000",,$0,$0
+14,"Pujols, Albert",St. Louis,DH,"$2,500,000",,$0,$0
+15,"Peralta, Freddy",Milwaukee,RHP,"$2,484,960",5 (2020-24),"$15,500,000","$3,100,000"
+16,"Lopez, Pablo",Miami,RHP,"$2,450,000",,$0,$0
+17,"Stallings, Jacob",Miami,C,"$2,450,000",,$0,$0
+18,"Houser, Adrian",Milwaukee,RHP,"$2,425,000",,$0,$0
+19,"Lauer, Eric",Milwaukee,LHP,"$2,425,000",,$0,$0
+0,"Gallegos, Giovanny",St. Louis,RHP,"$2,410,000",,$0,$0
+1,"Ross, Joe",Washington,RHP,"$2,400,000",,$0,$0
+2,"Barlow, Scott",Kansas City,RHP,"$2,400,000",,$0,$0
+3,"Pagan, Emilio",Minnesota,RHP,"$2,300,000",,$0,$0
+4,"Wilson, Justin",Cincinnati,LHP,"$2,300,000",,$0,$0
+5,"Plawecki, Kevin",Boston,C,"$2,250,000",,$0,$0
+6,"Robles, Hansel",Boston,RHP,"$2,250,000",,$0,$0
+7,"Paddack, Chris",Minnesota,RHP,"$2,250,000",,$0,$0
+8,"Bleier, Richard",Miami,LHP,"$2,250,000",2 (2022-23),"$6,000,000","$3,000,000"
+9,"Leone, Dominic",San Francisco,RHP,"$2,250,000",,$0,$0
+10,"Kemp, Anthony",Oakland,2B,"$2,225,000",,$0,$0
+11,"Minter, A.J.",Atlanta,LHP,"$2,200,000",,$0,$0
+12,"Wisler, Matt",Tampa Bay,RHP,"$2,160,000",,$0,$0
+13,"Castillo, Diego",Seattle,RHP,"$2,150,000",,$0,$0
+14,"Fedde, Erick",Washington,RHP,"$2,150,000",,$0,$0
+15,"Peralta, Wandy",N.Y. Yankees,LHP,"$2,150,000",,$0,$0
+16,"Mayers, Mike",L.A. Angels,RHP,"$2,150,000",,$0,$0
+17,"Hembree, Heath",Pittsburgh,RHP,"$2,125,000",,$0,$0
+18,"Biggio, Cavan",Toronto,2B,"$2,112,500",,$0,$0
+19,"Holland, Greg",Texas,RHP,"$2,100,000",,$0,$0
+0,"Goodrum, Niko",Houston,SS,"$2,100,000",,$0,$0
+1,"Stanek, Ryne",Houston,RHP,"$2,100,000",,$0,$0
+2,"Garrett, Amir",Kansas City,LHP,"$2,025,000",,$0,$0
+3,"Caratini, Victor",Milwaukee,C,"$2,000,000",,$0,$0
+4,"Smith, Caleb",Arizona,LHP,"$2,000,000",,$0,$0
+5,"Engel, Adam",Chic. White Sox,OF,"$2,000,000",,$0,$0
+6,"Plesac, Zach",Cleveland,RHP,"$2,000,000",,$0,$0
+7,"Sanchez, Anibal",Washington,RHP,"$2,000,000",,$0,$0
+8,"Romo, Sergio",Seattle,RHP,"$2,000,000",,$0,$0
+9,"Quintana, Jose",Pittsburgh,LHP,"$2,000,000",,$0,$0
+10,"Newman, Kevin",Pittsburgh,SS,"$1,950,000",,$0,$0
+11,"Jansen, Danny",Toronto,C,"$1,950,000",,$0,$0
+12,"Tellez, Rowdy",Milwaukee,1B,"$1,940,000",,$0,$0
+13,"Cisnero, Jose",Detroit,RHP,"$1,900,000",,$0,$0
+14,"Alvarado, Jose",Philadelphia,LHP,"$1,900,000",,$0,$0
+15,"Hampson, Garrett",Colorado,2B,"$1,862,500",,$0,$0
+16,"Arraez, Luis",Minnesota,2B,"$1,850,000",,$0,$0
+17,"Slater, Austin",San Francisco,OF,"$1,850,000",,$0,$0
+18,"Kittredge, Andrew",Tampa Bay,RHP,"$1,850,000",,$0,$0
+19,"Peterson, Jace",Milwaukee,OF,"$1,825,000",,$0,$0
+0,"Strickland, Hunter",Cincinnati,RHP,"$1,825,000",,$0,$0
+1,"Cessa, Luis",Cincinnati,RHP,"$1,800,000",,$0,$0
+2,"Gamel, Ben",Pittsburgh,OF,"$1,800,000",,$0,$0
+3,"Jimenez, Joe",Detroit,RHP,"$1,790,000",,$0,$0
+4,"Suzuki, Kurt",L.A. Angels,C,"$1,750,000",,$0,$0
+5,"Boxberger, Bradley",Milwaukee,RHP,"$1,750,000",,$0,$0
+6,"German, Domingo",N.Y. Yankees,RHP,"$1,750,000",,$0,$0
+7,"Norris, Daniel",Chi. Cubs,LHP,"$1,750,000",,$0,$0
+8,"Cishek, Steven",Washington,RHP,"$1,750,000",,$0,$0
+9,"Culberson, Charlie",Texas,INF,"$1,750,000",,$0,$0
+10,"Phelps, David",Toronto,RHP,"$1,750,000",,$0,$0
+11,"Sewald, Paul",Seattle,RHP,"$1,735,000",,$0,$0
+12,"Garcia, Jarlin",San Francisco,LHP,"$1,725,000",,$0,$0
+13,"Robles, Victor",Washington,OF,"$1,650,000",,$0,$0
+14,"Loaisiga, Jonathan",N.Y. Yankees,RHP,"$1,650,000",,$0,$0
+15,"Alberto, Hanser",L.A. Dodgers,3B,"$1,600,000",,$0,$0
+16,"Sawamura, Hirokazu",Boston,RHP,"$1,600,000",2 (2021-22),"$3,000,000","$1,500,000"
+17,"Arcia, Orlando",Atlanta,3B,"$1,600,000",2 (2022-23),"$3,000,000","$1,500,000"
+18,"Murphy, Tom",Seattle,C,"$1,575,000",,$0,$0
+19,"Cimber, Adam",Toronto,RHP,"$1,575,000",,$0,$0
+0,"Maton, Phil",Houston,RHP,"$1,550,000",,$0,$0
+1,"Turnbull, Spencer",Detroit,RHP,"$1,500,000",,$0,$0
+2,"Duffy, Matt",L.A. Angels,INF,"$1,500,000",,$0,$0
+3,"Shreve, Chasen",N.Y. Mets,RHP,"$1,500,000",,$0,$0
+4,"Jackson, Jay",Atlanta,RHP,"$1,500,000",,$0,$0
+5,"Davies, Zachary",Arizona,RHP,"$1,500,000",,$0,$0
+6,"Shaw, Travis",Boston,3B,"$1,500,000",,$0,$0
+7,"Lopez, Jorge",Baltimore,RHP,"$1,500,000",,$0,$0
+8,"Frazier, Clint",Chi. Cubs,OF,"$1,500,000",,$0,$0
+9,"Adrianza, Ehire",Washington,OF,"$1,500,000",,$0,$0
+10,"Doolittle, Sean",Washington,LHP,"$1,500,000",,$0,$0
+11,"Alvarez, Jose",San Francisco,LHP,"$1,500,000",,$0,$0
+12,"Mejia, Francisco",Tampa Bay,C,"$1,455,000",,$0,$0
+13,"Franco, Wander",Tampa Bay,SS,"$1,454,545",11 (2022-32),"$182,000,000","$16,545,455"
+14,"Phillips, Brett",Tampa Bay,OF,"$1,400,000",,$0,$0
+15,"White, Evan",Seattle,1B,"$1,400,000",6 (2020-25),"$24,000,000","$4,000,000"
+16,"Brooks, Aaron",St. Louis,RHP,"$1,400,000",,$0,$0
+17,"Camargo, Johan",Philadelphia,3B,"$1,400,000",,$0,$0
+18,"Brasier, Ryan",Boston,RHP,"$1,400,000",,$0,$0
+19,"Luplow, Jordan",Arizona,OF,"$1,400,000",,$0,$0
+0,"Matzek, Tyler",Atlanta,LHP,"$1,400,000",,$0,$0
+1,"Reyes, Victor",Detroit,OF,"$1,400,000",,$0,$0
+2,"Jankowski, Travis",N.Y. Mets,OF,"$1,350,000",,$0,$0
+3,"Moore, Dylan",Seattle,INF,"$1,350,000",,$0,$0
+4,"Hill, Tim",San Diego,LHP,"$1,325,000",,$0,$0
+5,"Hernandez, Elieser",Miami,RHP,"$1,325,000",,$0,$0
+6,"Thielbar, Caleb",Minnesota,LHP,"$1,300,000",,$0,$0
+7,"O'Hearn, Ryan",Kansas City,1B,"$1,300,000",,$0,$0
+8,"Marisnick, Jake",Pittsburgh,OF,"$1,300,000",,$0,$0
+9,"Calhoun, Willie",Texas,OF,"$1,300,000",,$0,$0
+10,"Zimmer, Bradley",Toronto,OF,"$1,300,000",,$0,$0
+11,"Stephenson, Robert",Colorado,RHP,"$1,280,000",,$0,$0
+12,"Castro, Harold",Detroit,2B,"$1,275,000",,$0,$0
+13,"Urena, Jose",Milwaukee,RHP,"$1,250,000",,$0,$0
+14,"Chacin, Jhoulys",Colorado,RHP,"$1,250,000",,$0,$0
+15,"Senzel, Nick",Cincinnati,OF,"$1,250,000",,$0,$0
+16,"Crick, Kyle",Chic. White Sox,RHP,"$1,250,000",,$0,$0
+17,"Ramirez, Noe",Arizona,RHP,"$1,250,000",,$0,$0
+18,"Chavez, Jesse",Chi. Cubs,RHP,"$1,250,000",,$0,$0
+19,"Mayza, Tim",Toronto,LHP,"$1,250,000",,$0,$0
+0,"Franco, Maikel",Washington,3B,"$1,250,000",,$0,$0
+1,"Wittgren, Nick",St. Louis,RHP,"$1,200,000",,$0,$0
+2,"Torrens, Luis",Seattle,OF,"$1,200,000",,$0,$0
+3,"Arroyo, Christian",Boston,3B,"$1,200,000",,$0,$0
+4,"Sims, Luke",Cincinnati,RHP,"$1,200,000",,$0,$0
+5,"Naylor, Josh",Cleveland,OF,"$1,200,000",,$0,$0
+6,"Berti, Jon",Miami,SS,"$1,200,000",,$0,$0
+7,"Garneau, Dustin",Detroit,C,"$1,175,000",,$0,$0
+8,"Chirinos, Yonny",Tampa Bay,RHP,"$1,175,000",,$0,$0
+9,"Lucchesi, Joey",N.Y. Mets,LHP,"$1,150,000",,$0,$0
+10,"Barnes, Jacob",Detroit,RHP,"$1,130,000",,$0,$0
+11,"Gonzalez, Marwin",N.Y. Yankees,2B,"$1,100,000",,$0,$0
+12,"Holmes, Clay",N.Y. Yankees,RHP,"$1,100,000",,$0,$0
+13,"Scott, Tanner",Miami,LHP,"$1,050,000",,$0,$0
+14,"Hudson, Dakota",St. Louis,RHP,"$1,050,000",,$0,$0
+15,"Hearn, Taylor",Texas,LHP,"$1,050,000",,$0,$0
+16,"Martin, Brett",Texas,LHP,"$1,025,000",,$0,$0
+17,"Sadler, Casey",Seattle,RHP,"$1,025,000",,$0,$0
+18,"Kinley, Tyler",Colorado,RHP,"$1,025,000",,$0,$0
+19,"Taylor, Josh",Boston,LHP,"$1,025,000",,$0,$0
+0,"Owings, Chris",Baltimore,OF,"$1,000,000",,$0,$0
+1,"Yates, Kirby",Atlanta,RHP,"$1,000,000",2 (2022-23),"$8,250,000","$4,125,000"
+2,"Dickerson, Alex",Atlanta,OF,"$1,000,000",,$0,$0
+3,"Heredia, Guillermo",Atlanta,OF,"$1,000,000",,$0,$0
+4,"O'Day, Darren",Atlanta,RHP,"$1,000,000",,$0,$0
+5,"Moran, Colin",Cincinnati,1B,"$1,000,000",,$0,$0
+6,"Armstrong, Shawn",Miami,RHP,"$1,000,000",,$0,$0
+7,"Escobar, Alcides",Washington,SS,"$1,000,000",,$0,$0
+8,"Richards, Trevor",Toronto,RHP,"$1,000,000",,$0,$0
+9,"Coulombe, Daniel",Minnesota,LHP,"$979,500",,$0,$0
+10,"Clarke, Taylor",Kansas City,RHP,"$975,000",,$0,$0
+11,"Springs, Jeffrey",Tampa Bay,LHP,"$947,500",,$0,$0
+12,"Munoz, Andres",Seattle,RHP,"$937,500",4 (2022-25),"$7,500,000","$1,875,000"
+13,"Hicks, Jordan",St. Louis,RHP,"$937,500",,$0,$0
+14,"Higashioka, Kyle",N.Y. Yankees,C,"$935,000",,$0,$0
+15,"Hoffman, Jeff",Cincinnati,RHP,"$925,000",,$0,$0
+16,"Adams, Austin",San Diego,RHP,"$925,000",,$0,$0
+17,"Luetge, Lucas",N.Y. Yankees,LHP,"$905,000",,$0,$0
+18,"Drury, Brandon",Cincinnati,3B,"$900,000",,$0,$0
+19,"Maile, Luke",Cleveland,C,"$900,000",,$0,$0
+0,"Newcomb, Sean",Atlanta,LHP,"$900,000",,$0,$0
+1,"Thornburg, Tyler",Atlanta,RHP,"$900,000",,$0,$0
+2,"Chirinos, Robinson",Baltimore,C,"$900,000",,$0,$0
+3,"Arono, Victor",Washington,RHP,"$900,000",,$0,$0
+4,"Adam, Jason",Tampa Bay,RHP,"$900,000",,$0,$0
+5,"Nido, Tomas",N.Y. Mets,C,"$890,000",,$0,$0
+6,"Gallagher, Cam",Kansas City,C,"$885,000",,$0,$0
+7,"Guillorme, Luis",N.Y. Mets,SS,"$875,000",,$0,$0
+8,"Voth, Austin",Washington,RHP,"$875,000",,$0,$0
+9,"Rainey, Tanner",Washington,RHP,"$860,000",,$0,$0
+10,"Thornton, Trent",Toronto,RHP,"$850,000",,$0,$0
+11,"Lowrie, Jed",Oakland,2B,"$850,000",,$0,$0
+12,"Vogt, Stephen",Oakland,C,"$850,000",,$0,$0
+13,"Fry, Paul",Baltimore,LHP,"$850,000",,$0,$0
+14,"Perez, Oliver",Arizona,LHP,"$850,000",,$0,$0
+15,"Farmer, Buck",Cincinnati,RHP,"$850,000",,$0,$0
+16,"Anderson, Nick",Tampa Bay,RHP,"$845,000",,$0,$0
+17,"Brebbia, John",San Francisco,RHP,"$837,500",,$0,$0
+18,"Wendelken, Jeffrey",Arizona,RHP,"$830,000",,$0,$0
+19,"Wade, Tyler",L.A. Angels,2B,"$825,000",,$0,$0
+0,"Bush, Matt",Texas,RHP,"$825,000",,$0,$0
+1,"Borucki, Ryan",Toronto,LHP,"$825,000",,$0,$0
+2,"Guerra, Deolis",Oakland,RHP,"$815,000",,$0,$0
+3,"McKinney, Billy",Oakland,OF,"$800,000",,$0,$0
+4,"Grimm, Justin",Oakland,RHP,"$800,000",,$0,$0
+5,"Dobnak, Randy",Minnesota,RHP,"$800,000",5 (2021-25),"$9,250,000","$1,850,000"
+6,"Hutchison, Drew",Detroit,RHP,"$800,000",,$0,$0
+7,"Strange-Gordon, Dee",Washington,OF,"$800,000",,$0,$0
+8,"Allen, Greg",Pittsburgh,OF,"$800,000",,$0,$0
+9,"Vogelbach, Daniel",Pittsburgh,1B,"$800,000",,$0,$0
+10,"Knapp, Andrew",Pittsburgh,C,"$800,000",,$0,$0
+11,"Bemboom, Anthony",Baltimore,C,"$780,000",,$0,$0
+12,"Alvarez, Yordan",Houston,DH,"$764,600",,$0,$0
+13,"Tucker, Kyle",Houston,OF,"$764,200",,$0,$0
+14,"Ferguson, Caleb",L.A. Dodgers,LHP,"$762,500",,$0,$0
+15,"Lambert, Peter",Colorado,RHP,"$762,500",,$0,$0
+16,"Sheffield, Justus",Seattle,LHP,"$760,800",,$0,$0
+17,"India, Jonathan",Cincinnati,3B,"$760,000",,$0,$0
+18,"Lewis, Kyle",Seattle,OF,"$757,900",,$0,$0
+19,"Cronenworth, Jake",San Diego,2B,"$757,200",,$0,$0
+0,"Garcia, Luis",Houston,RHP,"$751,500",,$0,$0
+1,"Cotton, Jharel",Minnesota,RHP,"$750,000",,$0,$0
+2,"Smith, Drew",N.Y. Mets,RHP,"$750,000",,$0,$0
+3,"Cease, Dylan",Chic. White Sox,RHP,"$750,000",,$0,$0
+4,"Blach, Ty",Colorado,LHP,"$750,000",,$0,$0
+5,"Beeks, Jalen",Tampa Bay,LHP,"$750,000",,$0,$0
+6,"Javier, Cristian",Houston,RHP,"$749,100",,$0,$0
+7,"Hernandez, Jose",Houston,RHP,"$748,700",,$0,$0
+8,"Gallen, Zac",Arizona,RHP,"$745,600",,$0,$0
+9,"Mills, Alec",Chi. Cubs,RHP,"$741,250",,$0,$0
+10,"Ortega, Rafael",Chi. Cubs,OF,"$738,500",,$0,$0
+11,"France, Ty",Seattle,2B,"$734,500",,$0,$0
+12,"Heuer, Codi",Chi. Cubs,RHP,"$734,000",,$0,$0
+13,"Taylor, Blake",Houston,LHP,"$731,800",,$0,$0
+14,"Rojas, Joshua",Arizona,2B,"$730,900",,$0,$0
+15,"McCormick, Chas",Houston,OF,"$730,800",,$0,$0
+16,"Toro-Hernandez, Abraham",Seattle,INF,"$730,300",,$0,$0
+17,"Mazza, Chris",Tampa Bay,RHP,"$730,000",,$0,$0
+18,"Beaty, Matthew",San Diego,OF,"$730,000",,$0,$0
+19,"Beede, Tyler",San Francisco,RHP,"$730,000",,$0,$0
+0,"Duggar, Steven",San Francisco,OF,"$730,000",,$0,$0
+1,"Littell, Zack",San Francisco,RHP,"$730,000",,$0,$0
+2,"Rogers, Tyler",San Francisco,RHP,"$730,000",,$0,$0
+3,"Wade, LaMonte",San Francisco,OF,"$730,000",,$0,$0
+4,"Webb, Logan",San Francisco,RHP,"$730,000",,$0,$0
+5,"Suarez, Ranger",Philadelphia,LHP,"$730,000",,$0,$0
+6,"Katoh, Gosuke",Toronto,2B,"$730,000",,$0,$0
+7,"May, Dustin",L.A. Dodgers,RHP,"$730,000",,$0,$0
+8,"Rios, Edwin",L.A. Dodgers,OF,"$730,000",,$0,$0
+9,"Smith, Will",L.A. Dodgers,C,"$730,000",,$0,$0
+10,"Barria, Jaime",L.A. Angels,RHP,"$730,000",,$0,$0
+11,"Canning, Griffin",L.A. Angels,RHP,"$730,000",,$0,$0
+12,"Walsh, Jared",L.A. Angels,INF,"$730,000",,$0,$0
+13,"Wisdom, Patrick",Chi. Cubs,1B,"$730,000",,$0,$0
+14,"Kopech, Michael",Chic. White Sox,RHP,"$730,000",,$0,$0
+15,"Grisham, Trent",San Diego,OF,"$729,300",,$0,$0
+16,"Romano, Jordan",Toronto,RHP,"$728,400",,$0,$0
+17,"Ramirez, Harold",Tampa Bay,OF,"$728,000",,$0,$0
+18,"Staumont, Josh",Kansas City,RHP,"$728,000",,$0,$0
+19,"Cortes, Nestor",N.Y. Yankees,LHP,"$727,500",,$0,$0
+0,"Dominguez, Seranthony",Philadelphia,RHP,"$727,500",,$0,$0
+1,"Nola, Austin",San Diego,C,"$726,900",,$0,$0
+2,"VanMeter, Josh",Pittsburgh,2B,"$726,800",,$0,$0
+3,"Singer, Brady",Kansas City,RHP,"$726,250",,$0,$0
+4,"Finnegan, Kyle",Washington,RHP,"$725,900",,$0,$0
+5,"Alford, Anthony",Pittsburgh,OF,"$725,000",,$0,$0
+6,"Banda, Anthony",Pittsburgh,LHP,"$725,000",,$0,$0
+7,"Brubaker, Jonathan",Pittsburgh,RHP,"$725,000",,$0,$0
+8,"Chavis, Michael",Pittsburgh,2B,"$725,000",,$0,$0
+9,"Howard, Sam",Pittsburgh,LHP,"$725,000",,$0,$0
+10,"Keller, Mitch",Pittsburgh,RHP,"$725,000",,$0,$0
+11,"Underwood Jr., Duane",Pittsburgh,RHP,"$725,000",,$0,$0
+12,"Murphy, Sean",Oakland,C,"$725,000",,$0,$0
+13,"Gott, Trevor",Milwaukee,RHP,"$725,000",,$0,$0
+14,"Wick, Rowan",Chi. Cubs,RHP,"$724,000",,$0,$0
+15,"Thomas, Lane",Washington,OF,"$723,600",,$0,$0
+16,"Bichette, Bo",Toronto,SS,"$723,550",,$0,$0
+17,"Edman, Tommy",St. Louis,2B,"$722,900",,$0,$0
+18,"Smith, Pavin",Arizona,1B,"$722,900",,$0,$0
+19,"King, Michael",N.Y. Yankees,RHP,"$722,500",,$0,$0
+0,"Helsley, Ryan",St. Louis,RHP,"$722,450",,$0,$0
+1,"Soto, Gregory",Detroit,LHP,"$722,400",,$0,$0
+2,"McGuire, Reese",Chic. White Sox,C,"$722,400",,$0,$0
+3,"Rogers, Trevor",Miami,LHP,"$722,000",,$0,$0
+4,"Varsho, Daulton",Arizona,OF,"$721,700",,$0,$0
+5,"Crismatt, Nabil",San Diego,RHP,"$721,500",,$0,$0
+6,"Stashak, Cody",Minnesota,RHP,"$720,400",,$0,$0
+7,"Trevino, Jose",N.Y. Yankees,C,"$720,000",,$0,$0
+8,"Adell, Jordon",L.A. Angels,OF,"$720,000",,$0,$0
+9,"Herget, Jimmy",L.A. Angels,RHP,"$720,000",,$0,$0
+10,"Mayfield, Jack",L.A. Angels,INF,"$720,000",,$0,$0
+11,"Quijada, Jose",L.A. Angels,LHP,"$720,000",,$0,$0
+12,"Sandoval, Patrick",L.A. Angels,LHP,"$720,000",,$0,$0
+13,"Suarez, Jose",L.A. Angels,LHP,"$720,000",,$0,$0
+14,"Ward, Taylor",L.A. Angels,OF,"$720,000",,$0,$0
+15,"Gonsolin, Anthony",L.A. Dodgers,RHP,"$720,000",,$0,$0
+16,"Gonzalez, Victor",L.A. Dodgers,LHP,"$720,000",,$0,$0
+17,"Graterol, Brusdar",L.A. Dodgers,RHP,"$720,000",,$0,$0
+18,"Lux, Gavin",L.A. Dodgers,2B,"$720,000",,$0,$0
+19,"Phillips, Evan",L.A. Dodgers,RHP,"$720,000",,$0,$0
+0,"Vesia, Alex",L.A. Dodgers,LHP,"$720,000",,$0,$0
+1,"Wright, Kyle",Atlanta,RHP,"$720,000",,$0,$0
+2,"Ynoa, Huascar",Atlanta,RHP,"$720,000",,$0,$0
+3,"Hoerner, Nico",Chi. Cubs,SS,"$720,000",,$0,$0
+4,"Davis, Austin",Boston,LHP,"$720,000",,$0,$0
+5,"Whitlock, Garrett",Boston,RHP,"$720,000",,$0,$0
+6,"Ruiz, Jose",Chic. White Sox,RHP,"$720,000",,$0,$0
+7,"Antone, Tejay",Cincinnati,RHP,"$720,000",,$0,$0
+8,"Aquino, Aristides",Cincinnati,OF,"$720,000",,$0,$0
+9,"Dunn, Justin",Cincinnati,RHP,"$720,000",,$0,$0
+10,"Stephenson, Tyler",Cincinnati,C,"$720,000",,$0,$0
+11,"Allard, Kolby",Texas,LHP,"$720,000",,$0,$0
+12,"Hernandez, Jonathan",Texas,RHP,"$720,000",,$0,$0
+13,"Santana, Dennis",Texas,RHP,"$720,000",,$0,$0
+14,"Solak, Nick",Texas,DH,"$720,000",,$0,$0
+15,"Straw, Myles",Cleveland,OF,"$719,900",,$0,$0
+16,"Abreu, Bryan",Houston,RHP,"$719,600",,$0,$0
+17,"Cabrera, Genesis",St. Louis,LHP,"$719,200",,$0,$0
+18,"Knizner, Andrew",St. Louis,C,"$718,300",,$0,$0
+19,"Alzolay, Adbert",Chi. Cubs,RHP,"$718,250",,$0,$0
+0,"Chisholm, Jazz",Miami,SS,"$718,000",,$0,$0
+1,"Espinal, Santiago",Toronto,2B,"$718,000",,$0,$0
+2,"Alcala, Jorge",Minnesota,RHP,"$717,900",,$0,$0
+3,"Reid-Foley, Sean",N.Y. Mets,RHP,"$717,500",,$0,$0
+4,"Coonrod, Samuel",Philadelphia,RHP,"$717,500",,$0,$0
+5,"Poppen, Sean",Arizona,RHP,"$717,400",,$0,$0
+6,"Mantiply, Joe",Arizona,LHP,"$717,000",,$0,$0
+7,"Wieck, Brad",Chi. Cubs,LHP,"$717,000",,$0,$0
+8,"Civale, Aaron",Cleveland,RHP,"$716,900",,$0,$0
+9,"Alexander, Tyler",Detroit,LHP,"$716,900",,$0,$0
+10,"Arozarena, Randy",Tampa Bay,OF,"$716,600",,$0,$0
+11,"Madrigal, Nick",Chi. Cubs,2B,"$716,500",,$0,$0
+12,"Mullins II, Cedric",Baltimore,OF,"$716,500",,$0,$0
+13,"Espino, Paolo",Washington,RHP,"$716,200",,$0,$0
+14,"Lowe, Nate",Texas,1B,"$716,000",,$0,$0
+15,"Houck, Tanner",Boston,RHP,"$716,000",,$0,$0
+16,"Sosa, Edmundo",St. Louis,2B,"$715,600",,$0,$0
+17,"Bohm, Alec",Philadelphia,3B,"$715,000",,$0,$0
+18,"Brogdon, Connor",Philadelphia,RHP,"$715,000",,$0,$0
+19,"Bednar, David",Pittsburgh,RHP,"$715,000",,$0,$0
+0,"Cederlind, Blake",Pittsburgh,RHP,"$715,000",,$0,$0
+1,"Crowe, Wil",Pittsburgh,RHP,"$715,000",,$0,$0
+2,"Hayes, Ke'Bryan",Pittsburgh,3B,"$715,000",,$0,$0
+3,"Oviedo, Luis",Pittsburgh,RHP,"$715,000",,$0,$0
+4,"Peters, Dillon",Pittsburgh,LHP,"$715,000",,$0,$0
+5,"Tucker, Cole",Pittsburgh,SS,"$715,000",,$0,$0
+6,"Wilson, Bryse",Pittsburgh,RHP,"$715,000",,$0,$0
+7,"Dubon, Mauricio",San Francisco,2B,"$715,000",,$0,$0
+8,"Estrada, Thairo",San Francisco,2B,"$715,000",,$0,$0
+9,"Crochet, Garrett",Chic. White Sox,LHP,"$715,000",,$0,$0
+10,"Vaughn, Andrew",Chic. White Sox,1B,"$715,000",,$0,$0
+11,"Luzardo, Jesus",Miami,LHP,"$715,000",,$0,$0
+12,"Misiewicz, Anthony",Seattle,LHP,"$714,900",,$0,$0
+13,"Williams, Devin",Milwaukee,RHP,"$714,500",,$0,$0
+14,"Karinchak, James",Cleveland,RHP,"$714,500",,$0,$0
+15,"Clase, Emmanuel",Cleveland,RHP,"$714,400",,$0,$0
+16,"Fairbanks, Peter",Tampa Bay,RHP,"$714,400",,$0,$0
+17,"Whitley, Kodi",St. Louis,RHP,"$714,350",,$0,$0
+18,"Woodford, Jake",St. Louis,RHP,"$714,350",,$0,$0
+19,"Mize, Casey",Detroit,RHP,"$714,200",,$0,$0
+0,"Mendick, Daniel",Chic. White Sox,SS,"$714,000",,$0,$0
+1,"Dalbec, Bobby",Boston,3B,"$714,000",,$0,$0
+2,"Burke, Brock",Texas,LHP,"$714,000",,$0,$0
+3,"Dunning, Dane",Texas,RHP,"$714,000",,$0,$0
+4,"Garcia, Adolis",Texas,OF,"$714,000",,$0,$0
+5,"Heim, Jonah",Texas,C,"$714,000",,$0,$0
+6,"Howard, Spencer",Texas,RHP,"$714,000",,$0,$0
+7,"King, John",Texas,LHP,"$714,000",,$0,$0
+8,"Sborz, Josh",Texas,RHP,"$714,000",,$0,$0
+9,"White, Eli",Texas,SS,"$714,000",,$0,$0
+10,"Hernandez, Yadiel",Washington,OF,"$714,000",,$0,$0
+11,"Collins, Zack",Toronto,C,"$714,000",,$0,$0
+12,"Bubic, Kris",Kansas City,LHP,"$713,750",,$0,$0
+13,"Castellanos, Humberto",Arizona,RHP,"$713,700",,$0,$0
+14,"Skubal, Tarik",Detroit,LHP,"$713,600",,$0,$0
+15,"Kieboom, Carter",Washington,3B,"$713,400",,$0,$0
+16,"Jeffers, Ryan",Minnesota,C,"$713,050",,$0,$0
+17,"Bender, Anthony",Miami,RHP,"$713,000",,$0,$0
+18,"Hays, Austin",Baltimore,OF,"$713,000",,$0,$0
+19,"Alcantara, Sergio",Arizona,SS,"$712,500",,$0,$0
+0,"Schmidt, Clarke",N.Y. Yankees,RHP,"$712,500",,$0,$0
+1,"Murphy, Patrick",Washington,RHP,"$712,500",,$0,$0
+2,"Gilbert, Logan",Seattle,RHP,"$712,300",,$0,$0
+3,"Rasmussen, Drew",Tampa Bay,RHP,"$711,800",,$0,$0
+4,"Swanson, Erik",Seattle,RHP,"$711,600",,$0,$0
+5,"Stewart, D.J.",Baltimore,OF,"$711,500",,$0,$0
+6,"Tate, Dillon",Baltimore,RHP,"$711,500",,$0,$0
+7,"Ramirez, Yohan",Seattle,RHP,"$711,400",,$0,$0
+8,"McClanahan, Shane",Tampa Bay,LHP,"$711,400",,$0,$0
+9,"Brentz, Jacob",Kansas City,LHP,"$711,250",,$0,$0
+10,"Merryweather, Julian",Toronto,RHP,"$711,200",,$0,$0
+11,"Taylor, Tyrone",Milwaukee,OF,"$711,100",,$0,$0
+12,"Sulser, Cole",Miami,RHP,"$711,000",,$0,$0
+13,"Mountcastle, Ryan",Baltimore,1B,"$711,000",,$0,$0
+14,"Burr, Ryan",Chic. White Sox,RHP,"$711,000",,$0,$0
+15,"Foster, Matt",Chic. White Sox,RHP,"$711,000",,$0,$0
+16,"Zuber, Tyler",Kansas City,RHP,"$710,500",,$0,$0
+17,"Meyers, Jake",Houston,OF,"$710,500",,$0,$0
+18,"Chargois, J.T.",Tampa Bay,RHP,"$710,500",,$0,$0
+19,"Kirk, Alejandro",Toronto,C,"$710,400",,$0,$0
+0,"Haase, Eric",Detroit,C,"$710,400",,$0,$0
+1,"Pearson, Nate",Toronto,RHP,"$710,300",,$0,$0
+2,"Funkhouser, Kyle",Detroit,RHP,"$710,200",,$0,$0
+3,"Bruihl, Justin",L.A. Dodgers,LHP,"$710,000",,$0,$0
+4,"Cleavinger, Garrett",L.A. Dodgers,LHP,"$710,000",,$0,$0
+5,"White, Mitchell",L.A. Dodgers,RHP,"$710,000",,$0,$0
+6,"Criswell, Cooper",L.A. Angels,RHP,"$710,000",,$0,$0
+7,"Detmers, Reid",L.A. Angels,LHP,"$710,000",,$0,$0
+8,"Marsh, Brandon",L.A. Angels,OF,"$710,000",,$0,$0
+9,"Ortega, Oliver",L.A. Angels,RHP,"$710,000",,$0,$0
+10,"Rodriguez, Chris",L.A. Angels,RHP,"$710,000",,$0,$0
+11,"Rojas, Jose",L.A. Angels,OF,"$710,000",,$0,$0
+12,"Warren, Austin",L.A. Angels,RHP,"$710,000",,$0,$0
+13,"Blackburn, Paul",Oakland,RHP,"$710,000",,$0,$0
+14,"Pache, Cristian",Oakland,OF,"$710,000",,$0,$0
+15,"Fraley, Jake",Cincinnati,OF,"$710,000",,$0,$0
+16,"Schrock, Max",Cincinnati,2B,"$710,000",,$0,$0
+17,"Gomber, Austin",Colorado,LHP,"$710,000",,$0,$0
+18,"Rodgers, Brendan",Colorado,2B,"$710,000",,$0,$0
+19,"Arauz, Jonathan",Boston,SS,"$710,000",,$0,$0
+0,"Valdez, Phillips",Boston,RHP,"$710,000",,$0,$0
+1,"Anderson, Ian",Atlanta,RHP,"$710,000",,$0,$0
+2,"Contreras, William",Atlanta,C,"$710,000",,$0,$0
+3,"Davidson, Tucker",Atlanta,LHP,"$710,000",,$0,$0
+4,"Strider, Spencer",Atlanta,RHP,"$710,000",,$0,$0
+5,"Mercado, Oscar",Cleveland,OF,"$709,900",,$0,$0
+6,"Akin, Keegan",Baltimore,LHP,"$709,500",,$0,$0
+7,"Mateo, Jorge",Baltimore,OF,"$709,500",,$0,$0
+8,"Baddoo, Akil",Detroit,OF,"$709,400",,$0,$0
+9,"Okert, Steven",Miami,LHP,"$709,000",,$0,$0
+10,"Sanchez, Jesus",Miami,OF,"$709,000",,$0,$0
+11,"Hernandez, Carlos",Kansas City,RHP,"$708,750",,$0,$0
+12,"Feyereisen, J.P.",Tampa Bay,RHP,"$708,600",,$0,$0
+13,"Kirilloff, Alex",Minnesota,OF,"$708,250",,$0,$0
+14,"Machado, Andres",Washington,RHP,"$708,200",,$0,$0
+15,"Sherriff, Ryan",Philadelphia,LHP,"$708,000",,$0,$0
+16,"Castro, Anthony",Cleveland,RHP,"$707,900",,$0,$0
+17,"Gutierrez, Vladimir",Cincinnati,RHP,"$707,500",,$0,$0
+18,"Rortvedt, Ben",N.Y. Yankees,C,"$707,500",,$0,$0
+19,"Megill, Tylor",N.Y. Mets,RHP,"$707,500",,$0,$0
+0,"Bart, Joey",San Francisco,C,"$707,500",,$0,$0
+1,"Abreu, Albert",Texas,RHP,"$707,500",,$0,$0
+2,"Saucedo, Tayler",Toronto,LHP,"$707,500",,$0,$0
+3,"Fleming, Josh",Tampa Bay,LHP,"$707,400",,$0,$0
+4,"Patino, Luis",Tampa Bay,RHP,"$707,400",,$0,$0
+5,"McKenzie, Triston",Cleveland,RHP,"$707,100",,$0,$0
+6,"Hermosillo, Michael",Chi. Cubs,OF,"$707,000",,$0,$0
+7,"Gordon, Nick",Minnesota,SS,"$706,800",,$0,$0
+8,"Adams, Riley",Washington,C,"$706,700",,$0,$0
+9,"Gimenez, Andres",Cleveland,SS,"$706,600",,$0,$0
+10,"Gutierrez, Kelvin",Baltimore,3B,"$706,500",,$0,$0
+11,"Cousins, Jake",Milwaukee,RHP,"$706,400",,$0,$0
+12,"Brosseau, Michael",Milwaukee,2B,"$706,300",,$0,$0
+13,"Ober, Bailey",Minnesota,RHP,"$706,200",,$0,$0
+14,"Jones, Taylor",Houston,1B,"$706,200",,$0,$0
+15,"Kelenic, Jarred",Seattle,OF,"$706,200",,$0,$0
+16,"Manoah, Alek",Toronto,RHP,"$706,200",,$0,$0
+17,"Ibanez, Andy",Texas,2B,"$706,000",,$0,$0
+18,"Nelson, Nick",Philadelphia,RHP,"$706,000",,$0,$0
+19,"Rogers, Jake",Detroit,C,"$706,000",,$0,$0
+0,"Head, Louis",Miami,RHP,"$706,000",,$0,$0
+1,"De La Cruz, Bryan",Miami,OF,"$706,000",,$0,$0
+2,"Thompson, Keegan",Chi. Cubs,RHP,"$706,000",,$0,$0
+3,"Sheets, Gavin",Chic. White Sox,1B,"$706,000",,$0,$0
+4,"Schwindel, Frank",Chi. Cubs,1B,"$705,500",,$0,$0
+5,"Kremer, Dean",Baltimore,RHP,"$705,500",,$0,$0
+6,"Urias, Ramon",Baltimore,2B,"$705,500",,$0,$0
+7,"Zimmermann, Bruce",Baltimore,LHP,"$705,500",,$0,$0
+8,"Olivares, Edward",Kansas City,OF,"$705,500",,$0,$0
+9,"Chang, Yu-Cheng",Cleveland,3B,"$705,400",,$0,$0
+10,"Manning, Matt",Detroit,RHP,"$705,300",,$0,$0
+11,"Nootbaar, Lars",St. Louis,OF,"$705,200",,$0,$0
+12,"Hiura, Keston",Milwaukee,2B,"$705,100",,$0,$0
+13,"Milner, Hoby",Milwaukee,LHP,"$705,100",,$0,$0
+14,"Martin, Corbin",Arizona,RHP,"$705,100",,$0,$0
+15,"Perez, Cionel",Baltimore,LHP,"$705,000",,$0,$0
+16,"Steele, Justin",Chi. Cubs,LHP,"$705,000",,$0,$0
+17,"Daza, Yonathan",Colorado,OF,"$705,000",,$0,$0
+18,"Goudeau, Ashton",Colorado,RHP,"$705,000",,$0,$0
+19,"Hilliard, Sam",Colorado,OF,"$705,000",,$0,$0
+0,"Nunez, Dom",Colorado,C,"$705,000",,$0,$0
+1,"Sheffield, Jordan",Colorado,RHP,"$705,000",,$0,$0
+2,"Castano, Daniel",Miami,LHP,"$705,000",,$0,$0
+3,"Reed, Jake",N.Y. Mets,RHP,"$705,000",,$0,$0
+4,"Allen, Austin",Oakland,C,"$705,000",,$0,$0
+5,"Brown, Seth",Oakland,OF,"$705,000",,$0,$0
+6,"Irvin, Cole",Oakland,LHP,"$705,000",,$0,$0
+7,"Kaprielian, James",Oakland,RHP,"$705,000",,$0,$0
+8,"Puk, A.J.",Oakland,LHP,"$705,000",,$0,$0
+9,"Romero, Seth",Washington,LHP,"$705,000",,$0,$0
+10,"Fletcher, Aaron",Pittsburgh,LHP,"$705,000",,$0,$0
+11,"Kranick, Max",Pittsburgh,RHP,"$705,000",,$0,$0
+12,"Mears, Nick",Pittsburgh,RHP,"$705,000",,$0,$0
+13,"Park, Hoy Jun",Pittsburgh,OF,"$705,000",,$0,$0
+14,"Thompson, Zach",Pittsburgh,RHP,"$705,000",,$0,$0
+15,"Yajure, Miguel",Pittsburgh,RHP,"$705,000",,$0,$0
+16,"Guerra, Javier",San Diego,RHP,"$704,900",,$0,$0
+17,"Hill, Derek",Detroit,OF,"$704,900",,$0,$0
+18,"Garcia, Rony",Detroit,RHP,"$704,800",,$0,$0
+19,"Baez, Michel",San Diego,RHP,"$704,700",,$0,$0
+0,"Morejon, Adrian",San Diego,LHP,"$704,500",,$0,$0
+1,"Stubbs, Garrett",Philadelphia,C,"$704,500",,$0,$0
+2,"Ashby, Aaron",Milwaukee,LHP,"$704,500",,$0,$0
+3,"Wells, Tyler",Baltimore,RHP,"$704,500",,$0,$0
+4,"Bukauskas, J.B.",Arizona,RHP,"$704,100",,$0,$0
+5,"McKenna, Ryan",Baltimore,OF,"$704,000",,$0,$0
+6,"Poteet, Cody",Miami,RHP,"$704,000",,$0,$0
+7,"Siri, Jose",Houston,OF,"$704,000",,$0,$0
+8,"Vierling, Matt",Philadelphia,OF,"$704,000",,$0,$0
+9,"Barlow, Joe",Texas,RHP,"$704,000",,$0,$0
+10,"Walls, Taylor",Tampa Bay,SS,"$704,000",,$0,$0
+11,"Carlson, Dylan",St. Louis,OF,"$703,800",,$0,$0
+12,"Doval, Camilo",San Francisco,RHP,"$703,750",,$0,$0
+13,"Long, Sam",San Francisco,LHP,"$703,750",,$0,$0
+14,"Lange, Alex",Detroit,RHP,"$703,700",,$0,$0
+15,"Lynch, Daniel",Kansas City,LHP,"$703,600",,$0,$0
+16,"Gray, Josiah",Washington,RHP,"$703,500",,$0,$0
+17,"Stephan, Trevor",Cleveland,RHP,"$703,400",,$0,$0
+18,"Mercedes, Yermin",Chic. White Sox,C,"$703,000",,$0,$0
+19,"Guenther, Sean",Miami,LHP,"$703,000",,$0,$0
+0,"Falter, Bailey",Philadelphia,LHP,"$703,000",,$0,$0
+1,"Romero, JoJo",Philadelphia,LHP,"$703,000",,$0,$0
+2,"Raleigh, Cal",Seattle,C,"$702,900",,$0,$0
+3,"Gose, Anthony",Cleveland,LHP,"$702,900",,$0,$0
+4,"Ellis, Drew",Arizona,3B,"$702,900",,$0,$0
+5,"Celestino, Gilberto",Minnesota,OF,"$702,850",,$0,$0
+6,"Ridings, Stephen",N.Y. Yankees,RHP,"$702,500",,$0,$0
+7,"Rucker, Michael",Chi. Cubs,RHP,"$702,500",,$0,$0
+8,"Hentges, Sam",Cleveland,LHP,"$702,500",,$0,$0
+9,"Garcia, Jose",Cincinnati,SS,"$702,500",,$0,$0
+10,"Hendrix, Ryan",Cincinnati,RHP,"$702,500",,$0,$0
+11,"Santillan, Antonio",Cincinnati,RHP,"$702,500",,$0,$0
+12,"Warren, Art",Cincinnati,RHP,"$702,500",,$0,$0
+13,"McCarthy, Jake",Arizona,OF,"$702,400",,$0,$0
+14,"Bradley, Bobby",Cleveland,INF,"$702,300",,$0,$0
+15,"Topa, Justin",Milwaukee,RHP,"$702,200",,$0,$0
+16,"Thompson, Mason",Washington,RHP,"$702,200",,$0,$0
+17,"Morgan, Eli",Cleveland,RHP,"$702,100",,$0,$0
+18,"Gilbreath, Lucas",Colorado,LHP,"$702,000",,$0,$0
+19,"Joe, Connor",Colorado,OF,"$702,000",,$0,$0
+0,"Trejo, Alan",Colorado,SS,"$702,000",,$0,$0
+1,"Lawrence, Justin",Colorado,RHP,"$702,000",,$0,$0
+2,"Crawford, Kutter",Boston,RHP,"$702,000",,$0,$0
+3,"Devers, Jose",Miami,SS,"$702,000",,$0,$0
+4,"Henry, Payton",Miami,C,"$702,000",,$0,$0
+5,"Kowar, Jackson",Kansas City,RHP,"$702,000",,$0,$0
+6,"Speier, Gabe",Kansas City,LHP,"$702,000",,$0,$0
+7,"Emanuel, Kent",Philadelphia,LHP,"$702,000",,$0,$0
+8,"Isbel, Kyle",Kansas City,OF,"$701,900",,$0,$0
+9,"Allen, Logan",Cleveland,LHP,"$701,700",,$0,$0
+10,"Sandlin, Nick",Cleveland,RHP,"$701,700",,$0,$0
+11,"Ryan, Joe",Minnesota,RHP,"$701,650",,$0,$0
+12,"Effross, Scott",Chi. Cubs,RHP,"$701,500",,$0,$0
+13,"Rivas, Alfonso",Chi. Cubs,1B,"$701,500",,$0,$0
+14,"Marchan, Rafael",Philadelphia,C,"$701,500",,$0,$0
+15,"Williams, Lucas",San Francisco,3B,"$701,500",,$0,$0
+16,"Foley, Jason",Detroit,RHP,"$701,400",,$0,$0
+17,"Perdomo, Geraldo",Arizona,SS,"$701,300",,$0,$0
+18,"Ruiz, Keibert",Washington,C,"$701,300",,$0,$0
+19,"McKay, Brendan",Tampa Bay,LHP,"$701,200",,$0,$0
+0,"Baz, Shane",Tampa Bay,RHP,"$701,100",,$0,$0
+1,"Miller, Owen",Cleveland,SS,"$701,100",,$0,$0
+2,"Beer, Seth",Arizona,1B,"$701,000",,$0,$0
+3,"Baumann, Michael",Baltimore,RHP,"$701,000",,$0,$0
+4,"Krehbiel, Joseph",Baltimore,RHP,"$701,000",,$0,$0
+5,"Lowe, Josh",Tampa Bay,OF,"$701,000",,$0,$0
+6,"Jones, Damon",Philadelphia,LHP,"$701,000",,$0,$0
+7,"Moniak, Mickey",Philadelphia,OF,"$701,000",,$0,$0
+8,"Sanchez, Cristopher",Philadelphia,LHP,"$701,000",,$0,$0
+9,"Clement, Ernie",Cleveland,SS,"$700,800",,$0,$0
+10,"Coleman, Dylan",Kansas City,RHP,"$700,650",,$0,$0
+11,"Baker, Bryan",Baltimore,RHP,"$700,500",,$0,$0
+12,"Romero, Jhon",Minnesota,RHP,"$700,400",,$0,$0
+13,"Adon, Joan",Washington,RHP,"$700,200",,$0,$0
+14,"Brash, Matthew",Seattle,RHP,"$700,100",,$0,$0
+15,"Rodriguez, Julio",Seattle,OF,"$700,000",,$0,$0
+16,"Festa, Matt",Seattle,RHP,"$700,000",,$0,$0
+17,"Fox, Lucius",Washington,SS,"$700,000",,$0,$0
+18,"Pallante, Andre",St. Louis,RHP,"$700,000",,$0,$0
+19,"Stott, Bryson",Philadelphia,SS,"$700,000",,$0,$0
+0,"Castillo, Diego",Pittsburgh,2B,"$700,000",,$0,$0
+1,"Wilson, Steven",San Diego,RHP,"$700,000",,$0,$0
+2,"Abrams, C.J.",San Diego,SS,"$700,000",,$0,$0
+3,"Azocar, Jose",San Diego,OF,"$700,000",,$0,$0
+4,"Duran, Jhoan",Minnesota,RHP,"$700,000",,$0,$0
+5,"Winder, Josh",Minnesota,RHP,"$700,000",,$0,$0
+6,"Acevedo, Domingo",Oakland,RHP,"$700,000",,$0,$0
+7,"Bolt, Skye",Oakland,OF,"$700,000",,$0,$0
+8,"Honeywell Jr, Brent",Oakland,RHP,"$700,000",,$0,$0
+9,"Jefferies, Daulton",Oakland,RHP,"$700,000",,$0,$0
+10,"Moll, Sam",Oakland,LHP,"$700,000",,$0,$0
+11,"Neuse, Sheldon",Oakland,2B,"$700,000",,$0,$0
+12,"Oller, Adam",Oakland,RHP,"$700,000",,$0,$0
+13,"Smith, Kevin",Oakland,3B,"$700,000",,$0,$0
+14,"Snead, Kirby",Oakland,LHP,"$700,000",,$0,$0
+15,"Jackson, Zach",Oakland,RHP,"$700,000",,$0,$0
+16,"Jimenez, Dany",Oakland,RHP,"$700,000",,$0,$0
+17,"Lemoine, Jake",Oakland,RHP,"$700,000",,$0,$0
+18,"Marinaccio, Ron",N.Y. Yankees,RHP,"$700,000",,$0,$0
+19,"Sears, J.P.",N.Y. Yankees,LHP,"$700,000",,$0,$0
+0,"Gustave, Jandel",Milwaukee,RHP,"$700,000",,$0,$0
+1,"Curtiss, John",N.Y. Mets,RHP,"$700,000",,$0,$0
+2,"Snider, Collin",Kansas City,RHP,"$700,000",,$0,$0
+3,"Witt, Bobby",Kansas City,3B,"$700,000",,$0,$0
+4,"Pena, Jeremy",Houston,SS,"$700,000",,$0,$0
+5,"Blanco, Ronel",Houston,RHP,"$700,000",,$0,$0
+6,"Rodriguez, Elvin",Detroit,RHP,"$700,000",,$0,$0
+7,"Torkelson, pencer",Detroit,1B,"$700,000",,$0,$0
+8,"Vest, Will",Detroit,RHP,"$700,000",,$0,$0
+9,"Nelson, Jimmy",L.A. Dodgers,RHP,"$700,000",,$0,$0
+10,"Bautista, Felix",Baltimore,RHP,"$700,000",,$0,$0
+11,"Odor, Rougned",Baltimore,2B,"$700,000",,$0,$0
+12,"Roberts, Ethan",Chi. Cubs,RHP,"$700,000",,$0,$0
+13,"Herrera, Jose",Arizona,C,"$700,000",,$0,$0
+14,"Hummel, Cooper",Arizona,OF,"$700,000",,$0,$0
+15,"Kwan, Steven",Cleveland,OF,"$700,000",,$0,$0
+16,"Lavastida, Bryan",Cleveland,C,"$700,000",,$0,$0
+17,"Morris, Cody",Cleveland,RHP,"$700,000",,$0,$0
+18,"Pilkington, Konnor",Cleveland,LHP,"$700,000",,$0,$0
+19,"Vargas, Carlos",Cleveland,RHP,"$700,000",,$0,$0
+0,"Rolison, Ryan",Colorado,LHP,"$700,000",,$0,$0
+1,"Diaz, Alexis",Cincinnati,RHP,"$700,000",,$0,$0
+2,"Duarte, Daniel",Cincinnati,RHP,"$700,000",,$0,$0
+3,"Greene, Hunter",Cincinnati,RHP,"$700,000",,$0,$0
+4,"Moreta, Dauri",Cincinnati,RHP,"$700,000",,$0,$0
+5,"Sanmartin, Reiver",Cincinnati,LHP,"$700,000",,$0,$0
+6,"Garcia, Aramis",Cincinnati,C,"$700,000",,$0,$0
+7,"Sousa, Bennett",Chic. White Sox,LHP,"$700,000",,$0,$0
+8,"Stiever, Jonathan",Chic. White Sox,RHP,"$700,000",,$0,$0
+9,"Banks, Tanner",Chic. White Sox,LHP,"$700,000",,$0,$0
+10,"Burger, Jake",Chic. White Sox,3B,"$700,000",,$0,$0
