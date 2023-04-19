@@ -13,6 +13,7 @@ DATA CLEANSING/TRANSFORMING: The respective data will then be cleansed for the p
 DATA LOADING: Once the data has been cleansed and format confirmed, it will be loaded into a single database to more easily analyze in the future. 
 
 REFERENCES:
+
 https://databases.usatoday.com/mlb-salaries-2022/page/1/
 
 https://www.spotrac.com/nfl/cap/2022/
