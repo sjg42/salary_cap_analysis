@@ -25,8 +25,8 @@ https://www.spotrac.com/nfl/cap/2022/
 
 * project 2 - 2022salaries.ipynb - scrapes NFL data from Spotrac.com and creates "TeamSal22.csv"
 
-* ProSportsSalaryCaps_MLB-NFL.ipynb - takes in data from two csvs above and cleans and loads data to Mongo Client database
+* ProSportsSalaryCaps_MLB-NFL.ipynb - takes in data from two csvs above and cleans and loads data to MongoDB
 
-* nfl_mlb_caps.csv - MongoClient database consists of salary data from all Professional American NFL and MLB teams across the country for the year of 2022
+* nfl_mlb_caps.csv - The MongoDB database consists of salary data from all Professional American NFL and MLB teams across the country for the year of 2022. The data in MongoDB was exported to a csv in order to include the data in this repository.
 
 
